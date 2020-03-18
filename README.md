@@ -1,3 +1,5 @@
+_**[Learning Activity - Not Maintained]**_
+
 # calreact-frontend
 
 * Front end React application as part of Learnetto's Lesson 9
