@@ -5,7 +5,7 @@
   "proxy": "http://localhost:3001/",
   "dependencies": {
     "immutability-helper": "^2.1.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "moment": "^2.18.0",
     "react": "^15.4.2",
     "react-datetime": "^2.8.8",
